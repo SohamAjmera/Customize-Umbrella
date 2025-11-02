@@ -46,26 +46,3 @@ The project is built with vanilla HTML, CSS, and JavaScript without any external
     ├── pink-icon.ico   # Pink color swatch
     └── yellow-icon.ico # Yellow color swatch
 ```
-
-## Technical Highlights
-
-- Uses FileReader API for client-side image processing
-- Implements CSS animations for smooth loading transitions
-- Dynamically updates UI themes based on selected umbrella color
-- Responsive design that adapts to different viewport sizes
-- Clean, maintainable code with proper separation of concerns
-
-## Browser Support
-
-The tool works on all modern browsers that support:
-- FileReader API
-- CSS3 animations
-- ES6 JavaScript features
-
-## Possible Improvements
-
-- Add support for more image formats
-- Implement image resizing for better logo placement
-- Add zoom functionality for detailed preview
-- Include more umbrella colors as originally specified
-- Add server-side saving of customized designs
