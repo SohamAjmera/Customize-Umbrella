@@ -46,3 +46,6 @@ The project is built with vanilla HTML, CSS, and JavaScript without any external
     ├── pink-icon.ico   # Pink color swatch
     └── yellow-icon.ico # Yellow color swatch
 ```
+## View Project
+the project is running live on
+https://customize-umbrella-zeta.vercel.app/
